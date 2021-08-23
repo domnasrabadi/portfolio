@@ -7,4 +7,7 @@ Github will automatically redploy the website after the above changes, may take 
 Projects to be added:  
 
 - Add fitbit data project
+- Database design, explain conceptual, logical, physical etc
+- Tableau Viz
+- Spreadsheet Modelling
 - 
